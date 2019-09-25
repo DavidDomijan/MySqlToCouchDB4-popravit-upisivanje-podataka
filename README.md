@@ -1,0 +1,1 @@
+# MySqlToCouchDB4-popravit-upisivanje-podataka
