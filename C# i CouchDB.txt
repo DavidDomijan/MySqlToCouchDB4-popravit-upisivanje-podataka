@@ -1,0 +1,14 @@
+David
+Adria2019
+
+http://localhost:5984/_utils/#/database/test/_all_docs
+
+
+https://bugs.mysql.com/bug.php?id=75917
+
+https://dotnetcodr.com/2017/05/15/introduction-to-couchdb-with-net-part-1-foundations-and-setup/
+https://danielwertheim.se/get-up-and-running-with-couchdb-and-c-using-mycouch-on-windows/
+https://github.com/danielwertheim/mycouch/wiki/documentation#get-connected
+
+
+https://stackoverflow.com/questions/12300744/a-function-to-convert-null-to-string
