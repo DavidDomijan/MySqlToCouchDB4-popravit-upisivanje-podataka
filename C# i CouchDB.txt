@@ -12,3 +12,376 @@ https://github.com/danielwertheim/mycouch/wiki/documentation#get-connected
 
 
 https://stackoverflow.com/questions/12300744/a-function-to-convert-null-to-string
+
+
+237
+0
+2015-04-22 12:20:11
+21
+Zatvoren prozor
+NULL
+NULL
+NULL
+NULL
+NULL
+1276
+176
+LOC
+NULL
+NULL
+NULL
+
+Edit Edit
+Copy Copy
+Delete Delete
+238
+0
+2015-04-22 12:20:44
+21
+Zatvoren prozor
+NULL
+NULL
+NULL
+NULL
+NULL
+1287
+187
+LOC
+NULL
+NULL
+NULL
+
+Edit Edit
+Copy Copy
+Delete Delete
+239
+0
+2015-04-22 12:20:47
+21
+Zatvoren prozor
+NULL
+NULL
+NULL
+NULL
+NULL
+1213
+113
+LOC
+NULL
+NULL
+NULL
+
+Edit Edit
+Copy Copy
+Delete Delete
+240
+0
+2015-04-22 12:20:51
+21
+Zatvoren prozor
+NULL
+NULL
+NULL
+NULL
+NULL
+1208
+108
+LOC
+NULL
+NULL
+NULL
+
+Edit Edit
+Copy Copy
+Delete Delete
+241
+0
+2015-04-22 12:21:25
+21
+Otvoren prozor
+NULL
+NULL
+NULL
+NULL
+NULL
+1288
+188
+LOC
+NULL
+NULL
+NULL
+
+Edit Edit
+Copy Copy
+Delete Delete
+242
+0
+2015-04-22 12:21:43
+35
+Kartica u odlagaču
+MemPos:12
+2
+slavko jurjević
+NULL
+NULL
+3557
+357
+LOC
+NULL
+NULL
+NULL
+
+Edit Edit
+Copy Copy
+Delete Delete
+243
+0
+2015-04-22 12:22:01
+21
+Otvoren prozor
+NULL
+NULL
+NULL
+NULL
+NULL
+1277
+177
+LOC
+NULL
+NULL
+NULL
+
+Edit Edit
+Copy Copy
+Delete Delete
+244
+0
+2015-04-22 12:22:02
+21
+Otvoren prozor
+NULL
+NULL
+NULL
+NULL
+NULL
+1209
+109
+LOC
+NULL
+NULL
+NULL
+
+Edit Edit
+Copy Copy
+Delete Delete
+245
+0
+2015-04-22 12:22:03
+35
+Odlagač prazan
+MemPos:17
+1
+PAVLOVIĆ GOSPAVA
+NULL
+NULL
+1213
+113
+LOC
+NULL
+NULL
+NULL
+
+Edit Edit
+Copy Copy
+Delete Delete
+246
+0
+2015-04-22 12:22:05
+6
+Stop komunikacije
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+LOC
+254
+ADRIA ADMIN
+NULL
+
+Edit Edit
+Copy Copy
+Delete Delete
+247
+0
+2015-04-23 09:40:42
+0
+Start programa
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+LOC
+NULL
+NULL
+NULL
+
+Edit Edit
+Copy Copy
+Delete Delete
+248
+0
+2015-04-23 09:40:46
+6
+Start komunikacije
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+LOC
+255
+NULL
+NULL
+
+Edit Edit
+Copy Copy
+Delete Delete
+249
+0
+2015-04-23 09:40:48
+34
+Pristup odobren
+MemPos:20
+4
+HUSKIĆ ŽELJKA
+NULL
+NULL
+4717
+417
+LOC
+NULL
+NULL
+NULL
+
+Edit Edit
+Copy Copy
+Delete Delete
+250
+0
+2015-04-23 09:40:48
+34
+Pristup odobren
+MemPos:24
+1
+DUKIĆ SONJA
+NULL
+NULL
+4713
+413
+LOC
+NULL
+NULL
+NULL
+
+Edit Edit
+Copy Copy
+Delete Delete
+251
+0
+2015-04-23 09:40:48
+34
+Pristup odobren
+MemPos:20
+4
+HUSKIĆ ŽELJKA
+NULL
+NULL
+4701
+401
+LOC
+NULL
+NULL
+NULL
+
+Edit Edit
+Copy Copy
+Delete Delete
+252
+0
+2015-04-23 09:40:49
+34
+Pristup odobren
+MemPos:20
+4
+HUSKIĆ ŽELJKA
+NULL
+NULL
+4707
+407
+LOC
+NULL
+NULL
+NULL
+
+Edit Edit
+Copy Copy
+Delete Delete
+253
+0
+2015-04-23 09:40:52
+34
+Pristup odobren
+MemPos:12
+2
+slavko jurjević
+NULL
+NULL
+3557
+357
+LOC
+NULL
+NULL
+NULL
+
+Edit Edit
+Copy Copy
+Delete Delete
+254
+0
+2015-04-23 09:40:53
+0
+Ovlašteni recepcioner
+Prijava
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+LOC
+254
+ADRIA ADMIN
+NULL
+
+Edit Edit
+Copy Copy
+Delete Delete
+255
+0
+2015-04-23 09:40:53
+34
+Pristup odobren
+MemPos:17
+1
+PAVLOVIĆ GOSPAVA
+NULL
+NULL
+3519
